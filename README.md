@@ -29,12 +29,6 @@ Here is the contextual overview of the provided code:
    - The model predicts the values for mean temperature, humidity, wind speed, and mean pressure for the next 6 or 7 dates.
 
 10. **Display of Predicted Values:**
-    	Date	Predicted_MeanTemp	Predicted_Humidity	Predicted_WindSpeed	Predicted_MeanPressure
-0	2023-01-01	16.497791	60.387142	5.176578	1015.368408
-1	2023-01-02	16.497791	60.387142	5.176578	1015.368408
-2	2023-01-03	16.497791	60.387142	5.176578	1015.368408
-3	2023-01-04	16.497791	60.387142	5.176578	1015.368408
-4	2023-01-05	16.497791	60.387142	5.176578	1015.368408
-5	2023-01-06	16.497791	60.387142	5.176578	1015.368408
-6	2023-01-07	16.497787	60.387142	5.176574	1015.368408
+      ![image](https://github.com/vr-jayashree5443/Weather-Forecasting-with-ML/assets/128161257/38a9f404-13a5-4f50-a137-920500a21abc)
+
     - The predicted values for each variable are organized into a DataFrame and printed, providing insights into the forecasted weather conditions for the specified future dates.
